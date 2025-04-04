@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Al Motalab .H</h1>
-<h3 align="center">A passionate Software Engineer, web development, AI, and cybersecurity from Iraq</h3>
+<h3 align="center">A  Software Engineer, web development, AI, and cybersecurity from Iraq</h3>
 
 
 - 📝 I regularly write articles on https://blog-long-moon-4955.fly.dev<br><br>- ⚡  Stuck with neovim
