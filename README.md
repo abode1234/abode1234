@@ -2,7 +2,7 @@
 <h3 align="center">A  Software Engineer, web development, AI, and cybersecurity from Iraq</h3>
 
 
-- 📝 I regularly write articles on [https://blog-long-moon-4955.fly.dev](https://blog-website-liard-eta.vercel.app) ⚡  Stuck with neovim
+- 📝 I regularly write articles on [https://blog-website-liard-eta.vercel.app](https://blog-website-liard-eta.vercel.app) ⚡  Stuck with neovim
 
 
 ## 🌐 Socials:
